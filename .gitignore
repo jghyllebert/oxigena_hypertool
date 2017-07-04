@@ -1,4 +1,4 @@
-*.sqlite
+*.sqlite3
 .cache/
 __pycache__/
 *.pyc

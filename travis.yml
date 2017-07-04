@@ -1,0 +1,9 @@
+language: python
+python:
+  - "3.5"
+script: pytest
+env:
+  - SECRET_KEY="zuYsuabSVvraCUt9T65mI3r0nmFlf59Z"
+  - FIREBASE_API_KEY=""
+  - FIREBASE_PROJECT_ID=""
+  - FIREBASE_DATABASE_NAME=""
